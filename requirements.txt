@@ -1,0 +1,7 @@
+python-dotenv
+requests
+langchain
+langchain-community
+langchain-openai
+langgraph
+weaviate-client
